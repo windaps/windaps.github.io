@@ -1,0 +1,51 @@
+ <!- -
+p {
+font-family: arial;
+font-size:36pt
+text-align: justify;
+color: black;
+}
+body {
+    background-image: url("grap.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+	background-size: 1350px;
+}
+h1 {
+font-family: Bradley Hand ITC;
+font-size: 12pt;
+text-align: center;
+color: white;
+margin-top: 200px;
+}
+h1.nama {
+font-family: Bradley Hand ITC;
+font-size: 14pt;
+text-align: center;
+color: white;
+margin-top: 50px;
+margin-bottom: 45px;
+
+}
+img.tengah {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 150px;
+    height: 150px;
+}
+a:link, a:visited {
+    background-color: grey;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;    
+}
+a:hover, a:active {
+    background-color: white;
+}
+a.tengah {
+   margin-left: 585px;
+}
+- ->
