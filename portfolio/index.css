@@ -6,10 +6,10 @@ text-align: justify;
 color: black;
 }
 body {
-    background-image: url("grap.jpg");
+    background-image: url("bg5.jpg");
     background-repeat: no-repeat;
     background-position: top;
-	background-size: 1350px;
+	background-size: 100%;
 }
 h1 {
 font-family: Bradley Hand ITC;
