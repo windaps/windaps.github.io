@@ -41,7 +41,7 @@ a:link, a:visited {
     display: inline-block;    
 }
 a:hover, a:active {
-    background-color: white;
+    background-color: black;
 }
 a.tengah {
    margin-left: 585px;
