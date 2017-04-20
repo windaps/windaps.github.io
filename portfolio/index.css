@@ -7,7 +7,7 @@ color: black;
 }
 body {
     background-image: url("bg4.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: top;
     background-size: 100%;
 }
