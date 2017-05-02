@@ -1,0 +1,56 @@
+ <!- -
+p {
+font-family: arial;
+font-size:36pt
+text-align: justify;
+color: black;
+}
+body {
+    background-image: url("ground.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.isi_lain {
+    min-width: 1000px;
+    background-repeat: no-repeat;
+    padding-top: 60px;
+    padding-left: 0px;
+    padding-bottom: 30px;
+}
+.judul {
+    padding-left: 20px;
+    border-bottom: 5px dotted grey;
+    width: 180px;
+    font-weight: bold;
+    vertical-align: middle;
+    color: black;
+    margin-left: 15px;
+}
+.tulisan {
+    padding: 20px;
+    width: 550px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    background-color: transparent;
+    border-left: solid black;
+    border-right: solid black;
+    border-bottom: solid black;
+    border-top: solid black;
+    font-size: 19px;
+}
+a:link, a:visited {
+    background-color: pink;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;    
+}
+a:hover, a:active {
+    background-color: white;
+}
+a.tengah {
+  margin-left: 1000px;
+}
+- ->
