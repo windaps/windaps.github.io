@@ -1,0 +1,70 @@
+ <!- -
+p {
+font-family: arial;
+font-size:36pt
+text-align: justify;
+color: black;
+}
+body {
+    background-image: url("bg1.png");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+img.tengah {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a.tengah {
+  margin-left: 1000px;
+}
+#tulisan {
+  font-family: April Flowers;
+  margin: auto;
+  margin-left: 450px;
+  font-size: 36px;
+}
+#content {
+    width: 50%;
+    margin: auto;
+    background: white;
+    color: black;
+    padding: 50px;  
+}
+.size h3 {
+    margin: 20px 100px; 
+}
+input, section {
+    clear: both;
+    display: none;
+    padding: 10px;  
+}
+label {
+  font-weight: bold;
+  font-size: 18px;
+  font-family: Arial;
+  display: block;
+  float: left;
+  padding: 10px 70px;
+  border-top: 2px solid transparent;
+  border-right: 1px solid transparent;
+  border-left: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+}
+
+label:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+#tab1:checked ~ #con1, #tab2:checked ~ #con2, #tab3:checked ~ #con3, #tab4:checked ~ #con4 {
+  display: block;
+}
+input:checked + label {
+  border-top-color: black;
+  border-right-color: black;
+  border-left-color: black;
+  border-bottom-color: transparent;
+  text-decoration: none;
+}
+- ->
