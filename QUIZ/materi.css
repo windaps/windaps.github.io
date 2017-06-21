@@ -1,0 +1,51 @@
+ <!- -
+p {
+font-family: arial;
+font-size:36pt
+text-align: justify;
+color: black;
+}
+body {
+    background-image: url("bg1.png");
+    background-size: 100%;
+    background-attachment: fixed;
+    text-align: center;
+}
+#tulisan {
+  font-family: Maiandra GD;
+  margin: auto;
+  font-size: 36px;
+  margin-top: 100px;
+}
+#awan  {
+}
+.coba {
+	background-color: lightgreen;
+    color: white;
+    padding: 30px 50px;
+    font-size: 24pt;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50px;
+    font-family: Maiandra GD;
+    margin-top: 0px;
+    float : none;
+}
+.coba:link, .coba:visited {
+    background-color: lightgreen;
+    color: white;
+    padding: 30px 50px;
+    font-size: 24pt;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50px;
+    font-family: Maiandra GD;
+    margin-top: 0px;
+    float : none;    
+}
+.coba:hover, .coba:active {
+    background-color: lightseagreen;
+}
+- ->

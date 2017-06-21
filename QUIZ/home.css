@@ -1,0 +1,39 @@
+ <!- -
+p {
+font-size:36pt
+text-align: justify;
+color: black;
+font-family: Kristen ITC;
+}
+body {
+    background-image: url("bg1.png");
+    background-size: 100%;
+    background-attachment: fixed;
+    text-align: center;
+}
+h1 {
+font-family: Maiandra GD;
+font-size: 50pt;
+font-style: bold;
+text-align: center;
+color: darkgreen;
+margin-top: 100px;
+}
+.coba, a:link, a:visited {
+    background-color: darkgreen;
+    color: white;
+    padding: 30px 50px;
+    font-size: 24pt;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50px; 
+    font-family: April Flowers;
+    float: none;
+
+
+}
+a:hover, a:active {
+    background-color: lightseagreen;
+}
+- ->
